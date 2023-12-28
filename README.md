@@ -2,3 +2,4 @@
 # 2 поменял редактор с помощью команды git config --global core.editor "code --wait -n"
 # 3 git stash , git stash list, git stash drop, git stash apply
 # 4 git commit --amend (радактировать коммит)
+# - 5 git patch git diff
